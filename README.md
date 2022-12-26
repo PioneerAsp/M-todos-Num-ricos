@@ -1,7 +1,7 @@
-# Metodos-Numericos
-Programas creados en la clase de Métodos Numéricos en lenguaje python:
-- Método de Newton el cual es un algoritmo para encontrar aproximaciones de los ceros o raíces de una función real.
-- Regla de Simpson que es un método que calcula una integral definida al calcular el área de solapamiento de segmentos parabólicos en el intervalo de integración y luego sumándolos.
-- Regla del Trapecio en esencia, la técnica consiste en dividir el intervalo total en intervalos pequeños y aproximar la curva Y = f(X) en los diversos intervalos pequeños mediante alguna curva más simple cuya integral puede calcularse utilizando solamente las ordenadas de los puntos extremos de los intervalos.
-- Los métodos iterativos de Jacobi y Gauss-Seidel son los procesos de aproximaciones sucesivas para resolver sistemas de ecuaciones lineales compatibles. Ambos requieren de la verificación de un criterio de convergencia comúnmente conocido como diagonal pesada.
-- Operaciones con matrices: Las operaciones con matrices son la suma, la resta, la división y la multiplicación. Una matriz es inversa de otra cuando al multiplicar ambas (en cualquier orden) se obtiene la matriz identidad. Si se pueden multiplicar en cualquier orden deben ser matrices cuadradas (Anxn·A-1nxn=A-1nxn·Anxn=Inxn). Se puede observar también que si hacemos la inversa de la inversa se obtiene la matriz original.
+# Numerical-methods
+Programs created in the Numerical Methods class in python language:
+- Newton's method which is an algorithm to find approximations of the zeros or roots of a real function.
+- Simpson's rule which is a method that calculates a definite integral by calculating the area of overlap of parabolic segments in the interval of integration and then adding them.
+- Trapezium Rule in essence, the technique consists of dividing the total interval into small intervals and approximating the curve Y = f(X) in the various small intervals by some simpler curve whose integral can be calculated using only the ordinates of the endpoints of the intervals.
+- The iterative methods of Jacobi and Gauss-Seidel are the processes of successive approximations to solve systems of compatible linear equations. Both require the verification of a convergence criterion commonly known as heavy diagonal.
+- Operations with matrices: The operations with matrices are addition, subtraction, division and multiplication. A matrix is the inverse of another when multiplying both (in any order) yields the identity matrix. If they can be multiplied in any order, they must be square matrices (Anxn·A-1nxn=A-1nxn·Anxn=Inxn). It can also be observed that if we do the inverse of the inverse, the original matrix is obtained.
